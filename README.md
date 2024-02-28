@@ -10,6 +10,8 @@ In this project, we'll utilize **Google Cloud Services** to construct a Pokemon 
 
 ## Getting Started
 ### Architecture
+![Architecture](https://github.com/yxlee1103/PokemonTCGAnalyticsPipeline/assets/33648886/fd04a2ca-822f-4cbc-b471-5b65224788a1)
+
 ### Process
 1. Retrieving data from Pokemon TCG API with Python
 2. Storing Data in GCS
