@@ -1,0 +1,116 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "id",
+            "type": "string"
+        },
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "supertype",
+            "type": "string"
+        },
+        {
+            "name": "subtypes",
+            "type": "string"
+        },
+        {
+            "name": "level", 
+            "type": "string"
+        },
+        {
+            "name": "hp",
+            "type": "integer"
+        },
+        {
+            "name": "types",
+            "type": "string"
+        },
+        {
+            "name": "evolvesFrom",
+            "type": "string"
+        },
+        {
+            "name": "abilities",
+            "type": "string"
+        },
+        {
+            "name": "attacks",
+            "type": "string"
+        },
+        {
+            "name": "weaknesses",
+            "type": "string"
+        },
+        {
+            "name": "resistances",
+            "type": "string"
+        },
+        {
+            "name": "retreatCost",
+            "type": "string"
+        },
+        {
+            "name": "convertedRetreatCost",
+            "type": "string"
+        },
+        {
+            "name": "set",
+            "type": "string"
+        },
+        {
+            "name": "number",
+            "type": "string"
+        },
+        {
+            "name": "artist",
+            "type": "string"
+        },
+        {
+            "name": "rarity",
+            "type": "string"
+        },
+        {
+            "name": "flavorText",
+            "type": "string"
+        },
+        {
+            "name": "nationalPokedexNumbers",
+            "type": "string"
+        },
+        {
+            "name": "legalities",
+            "type": "string"
+        },
+        {
+            "name": "images",
+            "type": "string"
+        },
+        {
+            "name": "tcgplayer",
+            "type": "string"
+        },
+        {
+            "name": "cardmarket",
+            "type": "string"
+        },
+        {
+            "name": "evolvesTo",
+            "type": "string"
+        },
+        {
+            "name": "rules",
+            "type": "string"
+        },
+        {
+            "name": "regulationMark",
+            "type": "string"
+        },
+        {
+            "name": "ancientTrait",
+            "type": "string"
+        }
+    ]
+}
